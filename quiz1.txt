@@ -1,0 +1,4 @@
+sual 1: metodu bir birinden ferqlendiren xususiyyetler nezerde tutulur yeni ki, adi ,return type;
+metod: return type, adi ve parametrler siyahisindan ibaret olur ve body hissesinden  
+sual2: =,+=,-=,*=,/=,%=
+sual3: string bir deyer qaytarir;
