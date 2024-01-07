@@ -1,0 +1,14 @@
+C:\Users\elmareg\Desktop\quiz1\taskk\taskk\bin\Debug\netcoreapp3.1\taskk.exe
+C:\Users\elmareg\Desktop\quiz1\taskk\taskk\bin\Debug\netcoreapp3.1\taskk.deps.json
+C:\Users\elmareg\Desktop\quiz1\taskk\taskk\bin\Debug\netcoreapp3.1\taskk.runtimeconfig.json
+C:\Users\elmareg\Desktop\quiz1\taskk\taskk\bin\Debug\netcoreapp3.1\taskk.runtimeconfig.dev.json
+C:\Users\elmareg\Desktop\quiz1\taskk\taskk\bin\Debug\netcoreapp3.1\taskk.dll
+C:\Users\elmareg\Desktop\quiz1\taskk\taskk\bin\Debug\netcoreapp3.1\taskk.pdb
+C:\Users\elmareg\Desktop\quiz1\taskk\taskk\obj\Debug\netcoreapp3.1\taskk.csproj.AssemblyReference.cache
+C:\Users\elmareg\Desktop\quiz1\taskk\taskk\obj\Debug\netcoreapp3.1\taskk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elmareg\Desktop\quiz1\taskk\taskk\obj\Debug\netcoreapp3.1\taskk.AssemblyInfoInputs.cache
+C:\Users\elmareg\Desktop\quiz1\taskk\taskk\obj\Debug\netcoreapp3.1\taskk.AssemblyInfo.cs
+C:\Users\elmareg\Desktop\quiz1\taskk\taskk\obj\Debug\netcoreapp3.1\taskk.csproj.CoreCompileInputs.cache
+C:\Users\elmareg\Desktop\quiz1\taskk\taskk\obj\Debug\netcoreapp3.1\taskk.dll
+C:\Users\elmareg\Desktop\quiz1\taskk\taskk\obj\Debug\netcoreapp3.1\taskk.pdb
+C:\Users\elmareg\Desktop\quiz1\taskk\taskk\obj\Debug\netcoreapp3.1\taskk.genruntimeconfig.cache
